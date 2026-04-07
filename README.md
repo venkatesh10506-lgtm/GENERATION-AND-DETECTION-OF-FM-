@@ -58,12 +58,23 @@ Save the file with an appropriate name.
 Execute the program.
 If any errors occur, debug and re-execute the code.
 Verify the generated waveforms using plots and compare with the model waveform.
-MODEL GRAPH
-
 
 
 TABULATION
-		
+
+![WhatsApp Image 2026-04-07 at 12 06 40 PM](https://github.com/user-attachments/assets/49fa995f-6f43-4380-adc1-dc3c81a55903)
+
 CALCULATIONS
 
+![WhatsApp Image 2026-04-07 at 12 06 40 PM (1)](https://github.com/user-attachments/assets/bd615007-77d2-4e0d-a37d-ce00b4004e90)
+
+OUTPUT WAVEFORM :
+
+![WhatsApp Image 2026-04-07 at 12 06 41 PM](https://github.com/user-attachments/assets/889e87de-825f-4bc9-bc91-112c2d7a43d3)
+<img width="785" height="518" alt="Screenshot 2026-04-07 120719" src="https://github.com/user-attachments/assets/cfac1cb2-b0bb-4c52-8248-cfce5bdbced8" />
+
+
 RESULT
+
+![WhatsApp Image 2026-04-07 at 12 09 53 PM](https://github.com/user-attachments/assets/88d4e9a8-278b-4fda-8fc4-c7edb007a265)
+
